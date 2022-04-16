@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void SelectionSort(int* a, int n) 
+void SelectionSort(int a[], int n) 
 {
 	int smallest_id;
 
